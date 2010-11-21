@@ -29,6 +29,7 @@ gem 'nokogiri'
 group :development do
   gem 'rspec-rails'
   gem 'haml-rails'
+  gem 'annotate-models'
 end
 
 group :test do
